@@ -3,6 +3,7 @@ from pynput.mouse import Button, Controller as MouseController
 import random
 import time
 
+#here we go
 def safe_input_simulator():
     # Initialize controllers
     keyboard = KeyboardController()
